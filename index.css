@@ -1,4 +1,26 @@
+*{
+    padding: 1px;
+}
 .divstyle{
     background-color: rgba(3, 3, 3, 0.904);
     color: antiquewhite;
+    padding: 0%;
+    display: inline-block;
+    width: 100%;
+    margin: 0px;
+}
+#navlink{
+    text-align: right;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    display: inline-block;
+    margin-left: 1100px;
+    
+}
+h2{
+    display:inline-block;
+}
+a{
+    margin: 0%;
+    padding: 5px;
 }
